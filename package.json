@@ -8,5 +8,8 @@
   },
   "author": "Sanket Admane",
   "license": "ISC",
-  "description": "A backend project"
+  "description": "A backend project",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
